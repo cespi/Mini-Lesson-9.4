@@ -13,7 +13,7 @@ These are the tools used in this project:
     <li>Matplotlib</li>
 </ol>
 
-<a class="anchor" id="installation_instructions""></a>
+<a class="anchor" id="installation_instructions"></a>
 ><h2>Installation Instructions</h2>
 These are the tools used in this project:
 <ol>
