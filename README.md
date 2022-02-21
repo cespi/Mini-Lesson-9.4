@@ -31,7 +31,7 @@ I did have a lot of authentication issues. So make sure to do the authentication
     <li>updating the config file</li>
 </ol>
 
-<a class="anchor" id="Contact Information"></a>
+<a class="anchor" id="contact"></a>
 ><h2>Contact Information</h2>
 <p><a href="https://www.linkedin.com/in/carlos-espinoza-859b9838?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbxHOgdGXQOmO%2F7HgEY7h0w%3D%3D" title="Carlos Espinoza">Carlos Espinoza</a></p>
 
